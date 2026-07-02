@@ -24,7 +24,7 @@ Gosto de criar projetos envolvendo APIs, bancos de dados e interfaces responsiva
 </p>
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilotecoteco\&show_icons=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilotecoteco\&layout=compact)
 
