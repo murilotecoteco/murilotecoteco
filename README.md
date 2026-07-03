@@ -1,6 +1,6 @@
 # Olá, eu sou Murilo 👋
 
-Sou estudante do IFPR no curso Técnico em Desenvolvimento de Sistemas para Internet integrado ao Ensino Médio. Tenho interesse em desenvolvimento web e estou sempre buscando aprimorar minhas habilidades por meio de projetos práticos.
+Sou estudante em Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento web e estou sempre buscando aprimorar minhas habilidades por meio de projetos práticos.
 
 Atualmente, trabalho com HTML, CSS, JavaScript, Python, SQL, Dart e Flutter, além de estar aprofundando meus conhecimentos em React e TypeScript para desenvolver aplicações modernas e escaláveis.
 
