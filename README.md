@@ -29,4 +29,4 @@ Atualmente aprofundando conhecimentos em React e TypeScript.
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murilotecoteco&layout=compact&theme=tokyonight)
 
 ##  Contato
-[E-mail](candidomurilo809@gmail.com)
+candidomurilo809@gmail.com
