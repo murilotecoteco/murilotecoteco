@@ -12,9 +12,9 @@ Atualmente aprofundando conhecimentos em React e TypeScript.
 
 ### Projetos em destaque
 - **[gym-membership-payments](https://github.com/murilotecoteco/gym-membership-payments)** — Plataforma de assinaturas para academias, com cobrança recorrente via Stripe (webhooks, portal do cliente, cancelamento agendado), backend em Node.js/Express, Supabase e deploy em produção no Render.
+- **[flight-monitoring-dashboard](https://github.com/murilotecoteco/flight-monitoring-dashboard)** — Pipeline ETL automatizado e dashboard de monitoramento de voos, com Python, GitHub Actions e Supabase (PostgreSQL), consumindo a API SIROS/ANAC.
 - **[cme-dashboard](https://github.com/murilotecoteco/cme-dashboard)** — Solar CME Monitor: dashboard de clima espacial em tempo real com React e Supabase Edge Functions, consumindo a API DONKI da NASA.
 - **[task-manager-nextjs-react](https://github.com/murilotecoteco/task-manager-nextjs-react)** — App de gerenciamento de tarefas com Next.js e TypeScript, hooks customizados e arquitetura de componentes reutilizáveis.
-- **[Weather-API-TS-React](https://github.com/murilotecoteco/Weather-API-TS-React)** — App de clima em tempo real com React e TypeScript, consumindo a API da OpenWeather.
 
 ### Contato
 📧 candidomurilo809@gmail.com
@@ -31,9 +31,9 @@ Currently deepening my knowledge of React and TypeScript.
 
 ### Featured Projects
 - **[gym-membership-payments](https://github.com/murilotecoteco/gym-membership-payments)** — Subscription management platform for gyms, with recurring billing via Stripe (webhooks, customer portal, scheduled cancellations), Node.js/Express backend, Supabase, and production deployment on Render.
+- **[flight-monitoring-dashboard](https://github.com/murilotecoteco/flight-monitoring-dashboard)** — Automated ETL pipeline and flight monitoring dashboard built with Python, GitHub Actions, and Supabase (PostgreSQL), consuming Brazil's SIROS/ANAC API.
 - **[cme-dashboard](https://github.com/murilotecoteco/cme-dashboard)** — Solar CME Monitor: real-time space weather dashboard built with React and Supabase Edge Functions, consuming NASA's DONKI API.
 - **[task-manager-nextjs-react](https://github.com/murilotecoteco/task-manager-nextjs-react)** — Task management app built with Next.js and TypeScript, featuring custom hooks and reusable component architecture.
-- **[Weather-API-TS-React](https://github.com/murilotecoteco/Weather-API-TS-React)** — Real-time weather app built with React and TypeScript, consuming the OpenWeather API.
 
 ### Contact
 📧 candidomurilo809@gmail.com
