@@ -25,8 +25,6 @@ Tenho experiência prática construindo aplicações com React, Next.js, TypeScr
 
 Gosto de transformar ideias em aplicações funcionais, priorizando código organizado, seguro e fácil de manter.
 
-Atualmente estou aprofundando conhecimentos em React, TypeScript, arquitetura de aplicações e desenvolvimento Full-stack.
-
 ---
 
 ## Tech Stack
@@ -159,15 +157,6 @@ Versão mobile de gerenciamento de tarefas, construída do zero com Clean Archit
 
 ---
 
-# Atualmente estudando
-
-* React, TypeScript e Next.js
-* Arquitetura de aplicações e boas práticas de segurança
-* Desenvolvimento Full-stack
-* Testes automatizados
-
----
-
 # Formação
 
 **Técnico em Informática para Internet — IFPR (Campus Toledo)**
@@ -187,130 +176,6 @@ Ensino Médio Integrado ao Técnico, com foco em desenvolvimento de sistemas e a
 
 ---
 
----
-
 # English
 
-## About Me
-
-I'm a Web Development student at IFPR (Toledo Campus) and a developer in training, focused on Front-end and Full-stack development.
-
-I have hands-on experience building applications with React, Next.js, TypeScript, Node.js, PostgreSQL and Supabase, plus integrations with external APIs, automation, recurring payments and data pipelines.
-
-I enjoy turning ideas into functional applications while prioritizing clean, secure and maintainable code.
-
-Currently deepening my knowledge of React, TypeScript, application architecture and Full-stack development.
-
----
-
-## Tech Stack
-
-**Front-end:** HTML • CSS • Sass • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Vite
-
-**Back-end:** Node.js • Express • Python • REST APIs
-
-**Mobile:** Flutter • Dart • Riverpod • GoRouter • Clean Architecture
-
-**Databases & Backend Services:** PostgreSQL • MySQL • SQLite • Supabase (Auth, RLS, Edge Functions) • Firebase
-
-**Tools & Infrastructure:** Git • GitHub • GitHub Actions • Docker • Vercel • Netlify • Render
-
-**Integrations:** Stripe • Webhooks • REST APIs • External APIs (NASA DONKI, SIROS/ANAC) • Supabase Edge Functions
-
----
-
-# Featured Projects
-
-## Gym Membership Payments
-
-Subscription management platform for gyms with recurring payments via Stripe.
-
-**Stack:** `Node.js` `Express` `Stripe` `Supabase` `PostgreSQL`
-
-**Highlights:**
-* [gym-membership-payments](https://github.com/murilotecoteco/gym-membership-payments)
-* Recurring payments with Stripe Checkout and Customer Portal
-* Stripe webhooks and scheduled plan cancellation
-* Express backend with Supabase/PostgreSQL persistence
-* Live production deployment (Render) — used as a real case study when prospecting clients
-
----
-
-## Flight Monitoring Dashboard
-
-Automated ETL pipeline and dashboard for flight monitoring using public ANAC data.
-
-**Stack:** `Python` `Supabase` `PostgreSQL` `GitHub Actions`
-
-**Highlights:**
-* [flight-monitoring-dashboard](https://github.com/SN-2026-MuriloSC/flight-monitoring-dashboard)
-* SIROS/ANAC API integration and data processing with Python
-* Automated ETL pipeline running on GitHub Actions
-* Dashboard for tracking collected data
-
----
-
-## Solar CME Monitor
-
-Dashboard for monitoring Coronal Mass Ejections (CME) and space weather events.
-
-**Stack:** `React` `Supabase Edge Functions` `NASA DONKI API`
-
-**Highlights:**
-* [cme-dashboard](https://github.com/murilotecoteco/cme-dashboard)
-* NASA DONKI API integration
-* Backend logic via Supabase Edge Functions
-* React interface with solar event visualization
-
----
-
-## Task Manager (Next.js)
-
-Task management application built with Next.js and TypeScript.
-
-**Stack:** `Next.js` `TypeScript` `React` `Tailwind CSS` `Framer Motion`
-
-**Highlights:**
-* [task-manager-nextjs-react](https://github.com/murilotecoteco/task-manager-nextjs-react)
-* Reusable components and custom hooks
-* Modular architecture and responsive UI
-
----
-
-## Task Manager (Flutter)
-
-A mobile task manager built from scratch with Clean Architecture.
-
-**Stack:** `Flutter` `Dart` `Riverpod` `GoRouter` `Supabase` `Hive`
-
-**Highlights:**
-* [task_manager](https://github.com/murilotecoteco/task_manager)
-* Offline-first persistence with Supabase and Hive
-* Charts with fl_chart
-* State management with Riverpod, routing with GoRouter
-
----
-
-# Currently Learning
-
-* React, TypeScript and Next.js
-* Application architecture and secure coding practices
-* Full-stack development
-* Automated testing
-
----
-
-# Education
-
-**Technical Degree in Web Development — IFPR (Toledo Campus)**
-
-Integrated Technical High School program, focused on systems and web application development.
-
----
-
-# Contact
-
-**Email:** [candidomurilo809@gmail.com](mailto:candidomurilo809@gmail.com)
-**GitHub:** [github.com/murilotecoteco](https://github.com/murilotecoteco)
-
----
+Web Development student at IFPR (Toledo Campus, Brazil), focused on Front-end and Full-stack development. Hands-on experience with React, Next.js, TypeScript, Node.js, PostgreSQL and Supabase, building projects like a Stripe-powered gym subscription platform, an ANAC flight-monitoring ETL pipeline, a NASA space-weather dashboard, and task manager apps in both Next.js and Flutter. See the [Português](#português) section above for full project details and tech stack, or check out the [projects on GitHub](https://github.com/murilotecoteco).
