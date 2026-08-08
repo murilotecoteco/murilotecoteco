@@ -1,58 +1,343 @@
-🇧🇷 [Português](#português) | 🇺🇸 [English](#english)
+🇧🇷 [Português](#português) • 🇺🇸 [English](#english)
 
----
-
-## Português
+<div align="center">
 
 # Olá, eu sou Murilo
 
-Desenvolvedor Front-end/Full-stack, estudante em Desenvolvimento de Sistemas. Construo aplicações web modernas com foco em componentização, integração de APIs e experiência do usuário — do front-end ao backend, incluindo pagamentos recorrentes com Stripe e bancos de dados com Supabase.
+### Front-end / Full-stack Developer
 
-Atualmente aprofundando conhecimentos em React e TypeScript.
+Estudante de Informática para Internet no IFPR, focado em construir aplicações web, APIs e soluções full-stack — do protótipo ao deploy em produção.
 
-### Projetos em destaque
-- **[gym-membership-payments](https://github.com/murilotecoteco/gym-membership-payments)** — Plataforma de assinaturas para academias, com cobrança recorrente via Stripe (webhooks, portal do cliente, cancelamento agendado), backend em Node.js/Express, Supabase e deploy em produção no Render.
-- **[flight-monitoring-dashboard](https://github.com/SN-2026-MuriloSC/flight-monitoring-dashboard)** — Pipeline ETL automatizado e dashboard de monitoramento de voos, com Python, GitHub Actions e Supabase (PostgreSQL), consumindo a API SIROS/ANAC.
-- **[cme-dashboard](https://github.com/murilotecoteco/cme-dashboard)** — Solar CME Monitor: dashboard de clima espacial em tempo real com React e Supabase Edge Functions, consumindo a API DONKI da NASA.
-- **[task-manager-nextjs-react](https://github.com/murilotecoteco/task-manager-nextjs-react)** — App de gerenciamento de tarefas com Next.js e TypeScript, hooks customizados e arquitetura de componentes reutilizáveis.
+[![GitHub](https://img.shields.io/badge/GitHub-murilotecoteco-181717?style=for-the-badge&logo=github)](https://github.com/murilotecoteco)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo%20Souza-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murilosouzac)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail)](mailto:candidomurilo809@gmail.com)
 
-### Contato
-📧 candidomurilo809@gmail.com
+</div>
 
 ---
 
-## English
+# Português
 
-# Hi, I'm Murilo
+## Sobre mim
 
-Front-end/Full-stack Developer, Computer Systems student. I build modern web applications focused on componentization, API integration, and user experience — from front-end to backend, including recurring payments with Stripe and databases with Supabase.
+Sou estudante de Informática para Internet no IFPR (Campus Toledo) e desenvolvedor em formação, com foco em desenvolvimento web Front-end e Full-stack.
 
-Currently deepening my knowledge of React and TypeScript.
+Tenho experiência prática construindo aplicações com React, Next.js, TypeScript, Node.js, PostgreSQL e Supabase, além de integração com APIs externas, automações, pagamentos recorrentes e pipelines de dados.
 
-### Featured Projects
-- **[gym-membership-payments](https://github.com/murilotecoteco/gym-membership-payments)** — Subscription management platform for gyms, with recurring billing via Stripe (webhooks, customer portal, scheduled cancellations), Node.js/Express backend, Supabase, and production deployment on Render.
-- **[flight-monitoring-dashboard](https://github.com/murilotecoteco/flight-monitoring-dashboard)** — Automated ETL pipeline and flight monitoring dashboard built with Python, GitHub Actions, and Supabase (PostgreSQL), consuming Brazil's SIROS/ANAC API.
-- **[cme-dashboard](https://github.com/murilotecoteco/cme-dashboard)** — Solar CME Monitor: real-time space weather dashboard built with React and Supabase Edge Functions, consuming NASA's DONKI API.
-- **[task-manager-nextjs-react](https://github.com/murilotecoteco/task-manager-nextjs-react)** — Task management app built with Next.js and TypeScript, featuring custom hooks and reusable component architecture.
+Gosto de transformar ideias em aplicações funcionais, priorizando código organizado, seguro e fácil de manter.
 
-### Contact
-📧 candidomurilo809@gmail.com
+Atualmente estou aprofundando conhecimentos em React, TypeScript, arquitetura de aplicações e desenvolvimento Full-stack.
 
 ---
 
-## Technologies
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+## Tech Stack
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=murilotecoteco&layout=compact&theme=tokyonight)
+HTML • CSS • Sass • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Vite
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+Node.js • Express • Python • REST APIs
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+Flutter • Dart • Riverpod • GoRouter • Clean Architecture
+
+### Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase" />
+</p>
+
+PostgreSQL • MySQL • SQLite • Supabase (Auth, RLS, Edge Functions) • Firebase
+
+### Tools & Infraestrutura
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,netlify"/>
+</p>
+
+Git • GitHub • GitHub Actions • Docker • Vercel • Netlify • Render
+
+### Integrações
+
+Stripe • Webhooks • REST APIs • APIs externas (NASA DONKI, SIROS/ANAC) • Supabase Edge Functions
+
+---
+
+# Projetos em destaque
+
+## Gym Membership Payments
+
+Plataforma de assinaturas para academias com cobrança recorrente via Stripe.
+
+**Stack:** `Node.js` `Express` `Stripe` `Supabase` `PostgreSQL`
+
+**Destaques:**
+* [gym-membership-payments](https://github.com/murilotecoteco/gym-membership-payments)
+* Pagamentos recorrentes com Stripe Checkout e Customer Portal
+* Webhooks do Stripe e cancelamento agendado de plano
+* API backend com Express e persistência em Supabase/PostgreSQL
+* Deploy em produção (Render) — usado como case real em prospecção de clientes
+
+---
+
+## Flight Monitoring Dashboard
+
+Pipeline ETL automatizado e dashboard para monitoramento de voos com dados públicos da ANAC.
+
+**Stack:** `Python` `Supabase` `PostgreSQL` `GitHub Actions`
+
+**Destaques:**
+* [flight-monitoring-dashboard](https://github.com/SN-2026-MuriloSC/flight-monitoring-dashboard)
+* Consumo da API SIROS/ANAC e processamento de dados com Python
+* Pipeline ETL com execução automatizada via GitHub Actions
+* Dashboard para acompanhamento dos dados coletados
+
+---
+
+## Solar CME Monitor
+
+Dashboard de monitoramento de ejeções de massa coronal (CME) e clima espacial.
+
+**Stack:** `React` `Supabase Edge Functions` `NASA DONKI API`
+
+**Destaques:**
+* [cme-dashboard](https://github.com/murilotecoteco/cme-dashboard)
+* Integração com a API DONKI da NASA
+* Lógica de backend via Supabase Edge Functions
+* Interface construída em React com visualização dos eventos solares
+
+---
+
+## Task Manager (Next.js)
+
+Aplicação de gerenciamento de tarefas construída com Next.js e TypeScript.
+
+**Stack:** `Next.js` `TypeScript` `React` `Tailwind CSS` `Framer Motion`
+
+**Destaques:**
+* [task-manager-nextjs-react](https://github.com/murilotecoteco/task-manager-nextjs-react)
+* Componentes reutilizáveis e custom hooks
+* Arquitetura modular e interface responsiva
+
+---
+
+## Task Manager (Flutter)
+
+Versão mobile de gerenciamento de tarefas, construída do zero com Clean Architecture.
+
+**Stack:** `Flutter` `Dart` `Riverpod` `GoRouter` `Supabase` `Hive`
+
+**Destaques:**
+* [task_manager](https://github.com/murilotecoteco/task_manager)
+* Autenticação e persistência com Supabase e Hive (offline-first)
+* Gráficos com fl_chart
+* Gerenciamento de estado com Riverpod e navegação com GoRouter
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilotecoteco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilotecoteco&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=murilotecoteco&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+# Atualmente estudando
+
+* React, TypeScript e Next.js
+* Arquitetura de aplicações e boas práticas de segurança
+* Desenvolvimento Full-stack
+* Testes automatizados
+
+---
+
+# Formação
+
+**Técnico em Informática para Internet — IFPR (Campus Toledo)**
+
+Ensino Médio Integrado ao Técnico, com foco em desenvolvimento de sistemas e aplicações web.
+
+---
+
+# Contato
+
+<div align="center">
+
+**Email:** [candidomurilo809@gmail.com](mailto:candidomurilo809@gmail.com)
+**GitHub:** [github.com/murilotecoteco](https://github.com/murilotecoteco)
+**LinkedIn:** [linkedin.com/in/murilosouzac](https://www.linkedin.com/in/murilosouzac)
+
+</div>
+
+---
+
+<div align="center">
+
+### Obrigado por visitar meu perfil.
+
+**Sempre aprendendo. Sempre construindo.**
+
+</div>
+
+---
+
+# English
+
+## About Me
+
+I'm a Web Development student at IFPR (Toledo Campus) and a developer in training, focused on Front-end and Full-stack development.
+
+I have hands-on experience building applications with React, Next.js, TypeScript, Node.js, PostgreSQL and Supabase, plus integrations with external APIs, automation, recurring payments and data pipelines.
+
+I enjoy turning ideas into functional applications while prioritizing clean, secure and maintainable code.
+
+Currently deepening my knowledge of React, TypeScript, application architecture and Full-stack development.
+
+---
+
+## Tech Stack
+
+**Front-end:** HTML • CSS • Sass • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Vite
+
+**Back-end:** Node.js • Express • Python • REST APIs
+
+**Mobile:** Flutter • Dart • Riverpod • GoRouter • Clean Architecture
+
+**Databases & Backend Services:** PostgreSQL • MySQL • SQLite • Supabase (Auth, RLS, Edge Functions) • Firebase
+
+**Tools & Infrastructure:** Git • GitHub • GitHub Actions • Docker • Vercel • Netlify • Render
+
+**Integrations:** Stripe • Webhooks • REST APIs • External APIs (NASA DONKI, SIROS/ANAC) • Supabase Edge Functions
+
+---
+
+# Featured Projects
+
+## Gym Membership Payments
+
+Subscription management platform for gyms with recurring payments via Stripe.
+
+**Stack:** `Node.js` `Express` `Stripe` `Supabase` `PostgreSQL`
+
+**Highlights:**
+* [gym-membership-payments](https://github.com/murilotecoteco/gym-membership-payments)
+* Recurring payments with Stripe Checkout and Customer Portal
+* Stripe webhooks and scheduled plan cancellation
+* Express backend with Supabase/PostgreSQL persistence
+* Live production deployment (Render) — used as a real case study when prospecting clients
+
+---
+
+## Flight Monitoring Dashboard
+
+Automated ETL pipeline and dashboard for flight monitoring using public ANAC data.
+
+**Stack:** `Python` `Supabase` `PostgreSQL` `GitHub Actions`
+
+**Highlights:**
+* [flight-monitoring-dashboard](https://github.com/SN-2026-MuriloSC/flight-monitoring-dashboard)
+* SIROS/ANAC API integration and data processing with Python
+* Automated ETL pipeline running on GitHub Actions
+* Dashboard for tracking collected data
+
+---
+
+## Solar CME Monitor
+
+Dashboard for monitoring Coronal Mass Ejections (CME) and space weather events.
+
+**Stack:** `React` `Supabase Edge Functions` `NASA DONKI API`
+
+**Highlights:**
+* [cme-dashboard](https://github.com/murilotecoteco/cme-dashboard)
+* NASA DONKI API integration
+* Backend logic via Supabase Edge Functions
+* React interface with solar event visualization
+
+---
+
+## Task Manager (Next.js)
+
+Task management application built with Next.js and TypeScript.
+
+**Stack:** `Next.js` `TypeScript` `React` `Tailwind CSS` `Framer Motion`
+
+**Highlights:**
+* [task-manager-nextjs-react](https://github.com/murilotecoteco/task-manager-nextjs-react)
+* Reusable components and custom hooks
+* Modular architecture and responsive UI
+
+---
+
+## Task Manager (Flutter)
+
+A mobile task manager built from scratch with Clean Architecture.
+
+**Stack:** `Flutter` `Dart` `Riverpod` `GoRouter` `Supabase` `Hive`
+
+**Highlights:**
+* [task_manager](https://github.com/murilotecoteco/task_manager)
+* Offline-first persistence with Supabase and Hive
+* Charts with fl_chart
+* State management with Riverpod, routing with GoRouter
+
+---
+
+# Currently Learning
+
+* React, TypeScript and Next.js
+* Application architecture and secure coding practices
+* Full-stack development
+* Automated testing
+
+---
+
+# Education
+
+**Technical Degree in Web Development — IFPR (Toledo Campus)**
+
+Integrated Technical High School program, focused on systems and web application development.
+
+---
+
+# Contact
+
+**Email:** [candidomurilo809@gmail.com](mailto:candidomurilo809@gmail.com)
+**GitHub:** [github.com/murilotecoteco](https://github.com/murilotecoteco)
+**LinkedIn:** [linkedin.com/in/murilosouzac](https://linkedin.com/in/murilosouzac)
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile.
+
+**Always learning. Always building.**
+
+</div>
