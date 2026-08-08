@@ -9,7 +9,6 @@
 Estudante de Informática para Internet no IFPR, focado em construir aplicações web, APIs e soluções full-stack — do protótipo ao deploy em produção.
 
 [![GitHub](https://img.shields.io/badge/GitHub-murilotecoteco-181717?style=for-the-badge&logo=github)](https://github.com/murilotecoteco)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo%20Souza-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murilosouzac)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail)](mailto:candidomurilo809@gmail.com)
 
 </div>
