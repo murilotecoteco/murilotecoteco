@@ -190,19 +190,10 @@ Ensino Médio Integrado ao Técnico, com foco em desenvolvimento de sistemas e a
 
 **Email:** [candidomurilo809@gmail.com](mailto:candidomurilo809@gmail.com)
 **GitHub:** [github.com/murilotecoteco](https://github.com/murilotecoteco)
-**LinkedIn:** [linkedin.com/in/murilosouzac](https://www.linkedin.com/in/murilosouzac)
 
 </div>
 
 ---
-
-<div align="center">
-
-### Obrigado por visitar meu perfil.
-
-**Sempre aprendendo. Sempre construindo.**
-
-</div>
 
 ---
 
@@ -329,14 +320,5 @@ Integrated Technical High School program, focused on systems and web application
 
 **Email:** [candidomurilo809@gmail.com](mailto:candidomurilo809@gmail.com)
 **GitHub:** [github.com/murilotecoteco](https://github.com/murilotecoteco)
-**LinkedIn:** [linkedin.com/in/murilosouzac](https://linkedin.com/in/murilosouzac)
 
 ---
-
-<div align="center">
-
-### Thanks for visiting my profile.
-
-**Always learning. Always building.**
-
-</div>
