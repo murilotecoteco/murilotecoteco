@@ -3,8 +3,6 @@
 
 # Olá, eu sou Murilo
 
-### Estudante de Dev Web buscando estágio/vaga júnior em Front-end / Full-stack
-
 Estudante de Informática para Web no IFPR, focado em construir aplicações web, APIs e soluções full-stack — do protótipo ao deploy em produção.
 
 [![GitHub](https://img.shields.io/badge/GitHub-murilotecoteco-181717?style=for-the-badge&logo=github)](https://github.com/murilotecoteco)
