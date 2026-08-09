@@ -1,4 +1,3 @@
-🇧🇷 [Português](#português) • 🇺🇸 [English](#english)
 
 <div align="center">
 
@@ -175,9 +174,3 @@ Ensino Médio Integrado ao Técnico, com foco em desenvolvimento de sistemas e a
 **GitHub:** [github.com/murilotecoteco](https://github.com/murilotecoteco)
 
 </div>
-
----
-
-# English
-
-Web Development student at IFPR (Toledo Campus, Brazil), currently looking for junior developer or internship roles in Front-end / Full-stack. Hands-on experience with React, Next.js, TypeScript, Node.js, PostgreSQL and Supabase, building projects like a Stripe-powered gym subscription platform (live in production), an ANAC flight-monitoring ETL pipeline, a NASA space-weather dashboard, and task manager apps in both Next.js and Flutter. See the [Português](#português) section above for full project details and tech stack, or check out the [projects on GitHub](https://github.com/murilotecoteco).
