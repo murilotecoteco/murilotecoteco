@@ -64,11 +64,11 @@ PostgreSQL • MySQL • SQLite • Supabase (Auth, RLS, Edge Functions) • Fir
 ### Tools & Infraestrutura
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,netlify"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,netlify" />
+  <img src="https://cdn.simpleicons.org/render" width="48" height="48" alt="Render" />
 </p>
 
 Git • GitHub • GitHub Actions • Docker • Vercel • Netlify • Render
-
 ### Integrações
 
 Stripe • Webhooks • REST APIs • APIs externas (NASA DONKI, SIROS/ANAC) • Supabase Edge Functions
