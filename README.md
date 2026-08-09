@@ -148,12 +148,9 @@ Versão mobile de gerenciamento de tarefas, construída do zero com Clean Archit
 
 # GitHub Stats
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=murilotecoteco&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
+<a href="https://git.io/streak-stats">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</a>
 ---
 
 # Formação
