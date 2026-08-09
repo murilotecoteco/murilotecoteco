@@ -4,9 +4,9 @@
 
 # Olá, eu sou Murilo
 
-### Front-end / Full-stack Developer
+### Estudante de Dev Web buscando estágio/vaga júnior em Front-end / Full-stack
 
-Estudante de Informática para Internet no IFPR, focado em construir aplicações web, APIs e soluções full-stack — do protótipo ao deploy em produção.
+Estudante de Informática para Web no IFPR, focado em construir aplicações web, APIs e soluções full-stack — do protótipo ao deploy em produção.
 
 [![GitHub](https://img.shields.io/badge/GitHub-murilotecoteco-181717?style=for-the-badge&logo=github)](https://github.com/murilotecoteco)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail)](mailto:candidomurilo809@gmail.com)
@@ -19,7 +19,7 @@ Estudante de Informática para Internet no IFPR, focado em construir aplicaçõe
 
 ## Sobre mim
 
-Sou estudante de Informática para Internet no IFPR (Campus Toledo) e desenvolvedor em formação, com foco em desenvolvimento web Front-end e Full-stack.
+Sou estudante de Informática para Web no IFPR (Campus Toledo) e desenvolvedor em formação, com foco em desenvolvimento web Front-end e Full-stack.
 
 Tenho experiência prática construindo aplicações com React, Next.js, TypeScript, Node.js, PostgreSQL e Supabase, além de integração com APIs externas, automações, pagamentos recorrentes e pipelines de dados.
 
@@ -77,14 +77,16 @@ Stripe • Webhooks • REST APIs • APIs externas (NASA DONKI, SIROS/ANAC) •
 
 # Projetos em destaque
 
-## Gym Membership Payments
+_Ordenados por relevância — todos com demo em produção, exceto o Task Manager Flutter (mobile)._
+
+## 1. Gym Membership Payments
 
 Plataforma de assinaturas para academias com cobrança recorrente via Stripe.
 
 **Stack:** `Node.js` `Express` `Stripe` `Supabase` `PostgreSQL`
 
 **Destaques:**
-* [gym-membership-payments](https://github.com/murilotecoteco/gym-membership-payments)
+* [Repositório](https://github.com/murilotecoteco/gym-membership-payments) • [Demo em produção](https://academia-com-pagamentos.onrender.com/)
 * Pagamentos recorrentes com Stripe Checkout e Customer Portal
 * Webhooks do Stripe e cancelamento agendado de plano
 * API backend com Express e persistência em Supabase/PostgreSQL
@@ -92,48 +94,48 @@ Plataforma de assinaturas para academias com cobrança recorrente via Stripe.
 
 ---
 
-## Flight Monitoring Dashboard
+## 2. Flight Monitoring Dashboard
 
 Pipeline ETL automatizado e dashboard para monitoramento de voos com dados públicos da ANAC.
 
 **Stack:** `Python` `Supabase` `PostgreSQL` `GitHub Actions`
 
 **Destaques:**
-* [flight-monitoring-dashboard](https://github.com/SN-2026-MuriloSC/flight-monitoring-dashboard)
+* [Repositório](https://github.com/SN-2026-MuriloSC/flight-monitoring-dashboard) • [Demo em produção](https://sirosdashboard.vercel.app/)
 * Consumo da API SIROS/ANAC e processamento de dados com Python
 * Pipeline ETL com execução automatizada via GitHub Actions
 * Dashboard para acompanhamento dos dados coletados
 
 ---
 
-## Solar CME Monitor
+## 3. Solar CME Monitor
 
 Dashboard de monitoramento de ejeções de massa coronal (CME) e clima espacial.
 
 **Stack:** `React` `Supabase Edge Functions` `NASA DONKI API`
 
 **Destaques:**
-* [cme-dashboard](https://github.com/murilotecoteco/cme-dashboard)
+* [Repositório](https://github.com/murilotecoteco/cme-dashboard) • [Demo em produção](https://solar-cme-monitor.vercel.app/)
 * Integração com a API DONKI da NASA
 * Lógica de backend via Supabase Edge Functions
 * Interface construída em React com visualização dos eventos solares
 
 ---
 
-## Task Manager (Next.js)
+## 4. Task Manager (Next.js)
 
 Aplicação de gerenciamento de tarefas construída com Next.js e TypeScript.
 
 **Stack:** `Next.js` `TypeScript` `React` `Tailwind CSS` `Framer Motion`
 
 **Destaques:**
-* [task-manager-nextjs-react](https://github.com/murilotecoteco/task-manager-nextjs-react)
+* [Repositório](https://github.com/murilotecoteco/task-manager-nextjs-react) • [Demo em produção](https://gerenciador-de-tarefas-one-pearl.vercel.app/)
 * Componentes reutilizáveis e custom hooks
 * Arquitetura modular e interface responsiva
 
 ---
 
-## Task Manager (Flutter)
+## 5. Task Manager (Flutter)
 
 Versão mobile de gerenciamento de tarefas, construída do zero com Clean Architecture.
 
@@ -159,7 +161,7 @@ Versão mobile de gerenciamento de tarefas, construída do zero com Clean Archit
 
 # Formação
 
-**Técnico em Informática para Internet — IFPR (Campus Toledo)**
+**Técnico em Informática para Web — IFPR (Campus Toledo)**
 
 Ensino Médio Integrado ao Técnico, com foco em desenvolvimento de sistemas e aplicações web.
 
@@ -178,4 +180,4 @@ Ensino Médio Integrado ao Técnico, com foco em desenvolvimento de sistemas e a
 
 # English
 
-Web Development student at IFPR (Toledo Campus, Brazil), focused on Front-end and Full-stack development. Hands-on experience with React, Next.js, TypeScript, Node.js, PostgreSQL and Supabase, building projects like a Stripe-powered gym subscription platform, an ANAC flight-monitoring ETL pipeline, a NASA space-weather dashboard, and task manager apps in both Next.js and Flutter. See the [Português](#português) section above for full project details and tech stack, or check out the [projects on GitHub](https://github.com/murilotecoteco).
+Web Development student at IFPR (Toledo Campus, Brazil), currently looking for junior developer or internship roles in Front-end / Full-stack. Hands-on experience with React, Next.js, TypeScript, Node.js, PostgreSQL and Supabase, building projects like a Stripe-powered gym subscription platform (live in production), an ANAC flight-monitoring ETL pipeline, a NASA space-weather dashboard, and task manager apps in both Next.js and Flutter. See the [Português](#português) section above for full project details and tech stack, or check out the [projects on GitHub](https://github.com/murilotecoteco).
