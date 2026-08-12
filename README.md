@@ -132,19 +132,6 @@ Aplicação de gerenciamento de tarefas construída com Next.js e TypeScript.
 
 ---
 
-## 5. Task Manager (Flutter)
-
-Versão mobile de gerenciamento de tarefas, construída do zero com Clean Architecture.
-
-**Stack:** `Flutter` `Dart` `Riverpod` `GoRouter` `Supabase` `Hive`
-
-**Destaques:**
-* [task_manager](https://github.com/murilotecoteco/task_manager)
-* Autenticação e persistência com Supabase e Hive (offline-first)
-* Gráficos com fl_chart
-* Gerenciamento de estado com Riverpod e navegação com GoRouter
-
----
 
 # GitHub Stats
 
