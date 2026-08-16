@@ -1,9 +1,8 @@
-
 <div align="center">
 
-# Olá, eu sou Murilo
+# Olá, eu sou o Murilo 
 
-Estudante de Informática para Web no IFPR, focado em construir aplicações web, APIs e soluções full-stack — do protótipo ao deploy em produção.
+Estudante de Informática para Web no IFPR, focado em construir aplicações web, APIs e pipelines de dados, do protótipo ao deploy em produção.
 
 [![GitHub](https://img.shields.io/badge/GitHub-murilotecoteco-181717?style=for-the-badge&logo=github)](https://github.com/murilotecoteco)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail)](mailto:candidomurilo809@gmail.com)
@@ -12,27 +11,15 @@ Estudante de Informática para Web no IFPR, focado em construir aplicações web
 
 ---
 
-# Português
-
-## Sobre mim
-
-Sou estudante de Informática para Web no IFPR (Campus Toledo) e desenvolvedor em formação, com foco em desenvolvimento web Front-end e Full-stack.
-
-Tenho experiência prática construindo aplicações com React, Next.js, TypeScript, Node.js, PostgreSQL e Supabase, além de integração com APIs externas, automações, pagamentos recorrentes e pipelines de dados.
-
-Gosto de transformar ideias em aplicações funcionais, priorizando código organizado, seguro e fácil de manter.
-
----
-
 ## Tech Stack
 
 ### Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
-HTML • CSS • Sass • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Vite
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Vite
 
 ### Back-end
 
@@ -42,119 +29,55 @@ HTML • CSS • Sass • JavaScript • TypeScript • React • Next.js • Ta
 
 Node.js • Express • Python • REST APIs
 
-### Mobile
+### Dados & Infra
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-Flutter • Dart • Riverpod • GoRouter • Clean Architecture
-
-### Databases & Backend Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase" />
-</p>
-
-PostgreSQL • MySQL • SQLite • Supabase (Auth, RLS, Edge Functions) • Firebase
-
-### Tools & Infraestrutura
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,docker,git,github,githubactions" />
   <img src="https://cdn.simpleicons.org/render" width="48" height="48" alt="Render" />
 </p>
 
-Git • GitHub • GitHub Actions • Docker • Vercel • Netlify • Render
+PostgreSQL • MySQL • Supabase • Firebase • Docker • Git • GitHub • GitHub Actions • Render
+
 ### Integrações
 
-Stripe • Webhooks • REST APIs • APIs externas (NASA DONKI, SIROS/ANAC) • Supabase Edge Functions
+<p>
+  <img src="https://skillicons.dev/icons?i=stripe" />
+</p>
+
+Stripe • Webhooks • APIs externas (NASA DONKI, SIROS/ANAC) • Supabase Edge Functions
 
 ---
 
-# Projetos em destaque
+## Projetos em destaque
 
-_Ordenados por relevância — todos com demo em produção, exceto o Task Manager Flutter (mobile)._
-
-## 1. Gym Membership Payments
-
-Plataforma de assinaturas para academias com cobrança recorrente via Stripe.
+### 1. Gym Membership Payments
+Plataforma de assinaturas para academias com cobrança recorrente via Stripe, usada como **case real em prospecção de clientes**.
 
 **Stack:** `Node.js` `Express` `Stripe` `Supabase` `PostgreSQL`
 
-**Destaques:**
-* [Repositório](https://github.com/murilotecoteco/gym-membership-payments) • [Demo em produção](https://academia-com-pagamentos.onrender.com/)
-* Pagamentos recorrentes com Stripe Checkout e Customer Portal
-* Webhooks do Stripe e cancelamento agendado de plano
-* API backend com Express e persistência em Supabase/PostgreSQL
-* Deploy em produção (Render) — usado como case real em prospecção de clientes
+[Repositório](https://github.com/murilotecoteco/gym-membership-payments) • [Demo em produção](https://academia-com-pagamentos.onrender.com/)
 
 ---
 
-## 2. Flight Monitoring Dashboard
-
-Pipeline ETL automatizado e dashboard para monitoramento de voos com dados públicos da ANAC.
+### 2. Flight Monitoring Dashboard
+Pipeline ETL automatizado (GitHub Actions + Python) que coleta e processa dados de voos da ANAC/SIROS em Supabase.
 
 **Stack:** `Python` `Supabase` `PostgreSQL` `GitHub Actions`
 
-**Destaques:**
-* [Repositório](https://github.com/SN-2026-MuriloSC/flight-monitoring-dashboard) • [Demo em produção](https://sirosdashboard.vercel.app/)
-* Consumo da API SIROS/ANAC e processamento de dados com Python
-* Pipeline ETL com execução automatizada via GitHub Actions
-* Dashboard para acompanhamento dos dados coletados
+[Repositório](https://github.com/murilotecoteco/flight-monitoring-dashboard) • [Demo em produção](https://sirosdashboard.vercel.app/)
 
 ---
 
-## 3. Solar CME Monitor
-
-Dashboard de monitoramento de ejeções de massa coronal (CME) e clima espacial.
+### 3. Solar CME Monitor
+Dashboard de monitoramento de ejeções de massa coronal (CME) integrando a API DONKI da NASA com Supabase Edge Functions.
 
 **Stack:** `React` `Supabase Edge Functions` `NASA DONKI API`
 
-**Destaques:**
-* [Repositório](https://github.com/murilotecoteco/cme-dashboard) • [Demo em produção](https://solar-cme-monitor.vercel.app/)
-* Integração com a API DONKI da NASA
-* Lógica de backend via Supabase Edge Functions
-* Interface construída em React com visualização dos eventos solares
+[Repositório](https://github.com/murilotecoteco/cme-dashboard) • [Demo em produção](https://solar-cme-monitor.vercel.app/)
 
 ---
 
-## 4. Task Manager (Next.js)
+## Contato
 
-Aplicação de gerenciamento de tarefas construída com Next.js e TypeScript.
-
-**Stack:** `Next.js` `TypeScript` `React` `Tailwind CSS` `Framer Motion`
-
-**Destaques:**
-* [Repositório](https://github.com/murilotecoteco/task-manager-nextjs-react) • [Demo em produção](https://gerenciador-de-tarefas-one-pearl.vercel.app/)
-* Componentes reutilizáveis e custom hooks
-* Arquitetura modular e interface responsiva
-
----
-
-
-# GitHub Stats
-
-<a href="https://git.io/streak-stats">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</a>
-
-
----
-
-# Formação
-
-**Técnico em Informática para Web — IFPR (Campus Toledo)**
-
-Ensino Médio Integrado ao Técnico, com foco em desenvolvimento de sistemas e aplicações web.
-
----
-
-# Contato
-
-<div align="center">
-
-**Email:** [candidomurilo809@gmail.com](mailto:candidomurilo809@gmail.com)
-**GitHub:** [github.com/murilotecoteco](https://github.com/murilotecoteco)
-
-</div>
+**Email:** candidomurilo809@gmail.com  
+**GitHub:** github.com/murilotecoteco
