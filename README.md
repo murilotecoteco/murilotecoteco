@@ -76,6 +76,17 @@ Dashboard de monitoramento de ejeções de massa coronal (CME) integrando a API 
 [Repositório](https://github.com/murilotecoteco/cme-dashboard) • [Demo em produção](https://solar-cme-monitor.vercel.app/)
 
 ---
+## Open Source
+
+Contribuindo no front-end do projeto [Calendar](https://github.com/Tecnologia-da-Informacao-BR/Calendar) — um organizador de tarefas open source.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,tailwind" />
+</p>
+
+`Angular` `TypeScript` `Tailwind CSS`
+
+---
 
 ## Contato
 
