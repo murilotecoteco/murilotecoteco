@@ -33,7 +33,6 @@ Node.js • Express • Python • REST APIs
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,githubactions" />
-  <img src="https://cdn.simpleicons.org/render" width="48" height="48" alt="Render" />
 </p>
 
 PostgreSQL • MySQL  • Docker • Git • GitHub • GitHub Actions 
