@@ -16,10 +16,10 @@ Estudante de Informática para Web no IFPR, focado em construir aplicações web
 ### Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Vite
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS 
 
 ### Back-end
 
@@ -32,21 +32,11 @@ Node.js • Express • Python • REST APIs
 ### Dados & Infra
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,docker,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,,docker,git,github,githubactions" />
   <img src="https://cdn.simpleicons.org/render" width="48" height="48" alt="Render" />
 </p>
 
-PostgreSQL • MySQL • Supabase • Firebase • Docker • Git • GitHub • GitHub Actions • Render
-
-### Integrações
-
-<p>
-  <img src="https://skillicons.dev/icons?i=stripe" />
-</p>
-
-Stripe • Webhooks • APIs externas (NASA DONKI, SIROS/ANAC) • Supabase Edge Functions
-
----
+PostgreSQL • MySQL  • Docker • Git • GitHub • GitHub Actions 
 
 ## Projetos em destaque
 
