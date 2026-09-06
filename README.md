@@ -53,7 +53,7 @@ Pipeline ETL automatizado (GitHub Actions + Python) que coleta e processa dados 
 
 **Stack:** `Python` `Supabase` `PostgreSQL` `GitHub Actions`
 
-[Repositório](https://github.com/murilotecoteco/flight-monitoring-dashboard) • [Demo em produção](https://sirosdashboard.vercel.app/)
+[Repositório](https://github.com/SN-2026-MuriloSC/flight-monitoring-dashboard) • [Demo em produção](https://sirosdashboard.vercel.app/)
 
 ---
 
