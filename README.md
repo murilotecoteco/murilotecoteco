@@ -67,7 +67,8 @@ Dashboard de monitoramento de ejeções de massa coronal (CME) integrando a API 
 ---
 ## Open Source
 
-Contribuindo no front-end do projeto [Calendar](https://github.com/Tecnologia-da-Informacao-BR/Calendar) — um organizador de tarefas open source.
+Contribuindo no front-end do projeto [Calendar](https://github.com/Tecnologia-da-Informacao-BR/Calendar)  — Um organizador de tarefas e produtividade open source.
+- Contribuindo ativamente no Front-end em colaboração direta com uma comunidade de +10 desenvolvedores.
 
 <p>
   <img src="https://skillicons.dev/icons?i=angular,ts,tailwind" />
