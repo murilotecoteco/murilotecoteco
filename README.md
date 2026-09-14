@@ -32,10 +32,10 @@ Node.js • Express • Python • REST APIs
 ### Dados & Infra
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,githubactions" />
 </p>
 
-PostgreSQL • MySQL  • Docker • Git • GitHub • GitHub Actions 
+PostgreSQL • Git • GitHub • GitHub Actions 
 
 ## Projetos em destaque
 
