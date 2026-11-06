@@ -48,12 +48,12 @@ Plataforma de assinaturas para academias com cobrança recorrente via Stripe, us
 
 ---
 
-### 2. Flight Monitoring Dashboard
-Pipeline ETL automatizado (GitHub Actions + Python) que coleta e processa dados de voos da ANAC/SIROS em Supabase.
+### 2. Task Manager
+Aplicação de gerenciamento de tarefas construída com Next.js, React e TypeScript, com persistência local e interface responsiva.
 
-**Stack:** `Python` `Supabase` `PostgreSQL` `GitHub Actions`
+**Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS`
 
-[Repositório](https://github.com/SN-2026-MuriloSC/flight-monitoring-dashboard) • [Demo em produção](https://sirosdashboard.vercel.app/)
+[Repositório](https://github.com/murilotecoteco/task-manager-nextjs-react) • [Demo em produção](https://gerenciador-de-tarefas-one-pearl.vercel.app/)
 
 ---
 
@@ -63,6 +63,15 @@ Dashboard de monitoramento de ejeções de massa coronal (CME) integrando a API 
 **Stack:** `React` `Supabase Edge Functions` `NASA DONKI API`
 
 [Repositório](https://github.com/murilotecoteco/cme-dashboard) • [Demo em produção](https://solar-cme-monitor.vercel.app/)
+
+---
+
+### 4. Portfolio
+Site pessoal desenvolvido com React, TypeScript, Vite e Tailwind CSS para apresentar projetos, competências e contribuições open source.
+
+**Stack:** `React` `TypeScript` `Vite` `Tailwind CSS`
+
+[Repositório](https://github.com/murilotecoteco/Portfolio)
 
 ---
 ## Open Source
