@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o Murilo 
+# Olá, eu sou o Murilo
 
-Estudante de Informática para Web no IFPR, focado em construir aplicações web, APIs e pipelines de dados, do protótipo ao deploy em produção.
+Estudante de Informática para Web no IFPR. Desenvolvo aplicações web, APIs e integrações com bancos de dados, com foco em transformar ideias em projetos funcionais.
 
 [![GitHub](https://img.shields.io/badge/GitHub-murilotecoteco-181717?style=for-the-badge&logo=github)](https://github.com/murilotecoteco)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail)](mailto:candidomurilo809@gmail.com)
@@ -11,83 +11,81 @@ Estudante de Informática para Web no IFPR, focado em construir aplicações web
 
 ---
 
-## Tech Stack
+## Tecnologias
 
 ### Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS 
+`HTML` • `CSS` • `JavaScript` • `React` • `Next.js` • `Tailwind CSS`
 
-### Back-end
+### Back-end e dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,supabase" />
 </p>
 
-Node.js • Express • Python • REST APIs
+`Node.js` • `Express` • `Python` • `Supabase` • `PostgreSQL` • APIs REST
 
-### Dados & Infra
+### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
 </p>
 
-PostgreSQL • Git • GitHub • GitHub Actions 
+`Git` • `GitHub` • `GitHub Actions`
+
+---
 
 ## Projetos em destaque
 
-### 1. Gym Membership Payments
-Plataforma de assinaturas para academias com cobrança recorrente via Stripe, usada como **case real em prospecção de clientes**.
+### [Gym Membership Payments](https://github.com/murilotecoteco/gym-membership-payments)
+
+Projeto demonstrativo de assinaturas para academias, com cobrança recorrente via Stripe, webhooks, validação de pagamentos e integração com Supabase.
 
 **Stack:** `Node.js` `Express` `Stripe` `Supabase` `PostgreSQL`
 
-[Repositório](https://github.com/murilotecoteco/gym-membership-payments) • [Demo em produção](https://academia-com-pagamentos.onrender.com/)
+[Demo](https://academia-com-pagamentos.onrender.com/)
 
 ---
 
-### 2. Task Manager
-Aplicação de gerenciamento de tarefas construída com Next.js, React e TypeScript, com persistência local e interface responsiva.
+### [Task Manager](https://github.com/murilotecoteco/task-manager-nextjs-react)
+
+Aplicação de gerenciamento de tarefas com Next.js, React, TypeScript, persistência local e interface responsiva.
 
 **Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS`
 
-[Repositório](https://github.com/murilotecoteco/task-manager-nextjs-react) • [Demo em produção](https://gerenciador-de-tarefas-one-pearl.vercel.app/)
+[Demo](https://gerenciador-de-tarefas-one-pearl.vercel.app/)
 
 ---
 
-### 3. Solar CME Monitor
-Dashboard de monitoramento de ejeções de massa coronal (CME) integrando a API DONKI da NASA com Supabase Edge Functions.
+### [Solar CME Monitor](https://github.com/murilotecoteco/cme-dashboard)
 
-**Stack:** `React` `Supabase Edge Functions` `NASA DONKI API`
+Dashboard que monitora ejeções de massa coronal usando a API DONKI da NASA e uma Edge Function do Supabase para intermediar a integração.
 
-[Repositório](https://github.com/murilotecoteco/cme-dashboard) • [Demo em produção](https://solar-cme-monitor.vercel.app/)
+**Stack:** `React` `JavaScript` `Supabase Edge Functions` `NASA DONKI API`
+
+[Demo](https://solar-cme-monitor.vercel.app/)
 
 ---
 
-### 4. Portfolio
-Site pessoal desenvolvido com React, TypeScript, Vite e Tailwind CSS para apresentar projetos, competências e contribuições open source.
+### [Portfolio](https://github.com/murilotecoteco/Portfolio)
+
+Site pessoal desenvolvido com React, TypeScript, Vite e Tailwind CSS para apresentar projetos e competências.
 
 **Stack:** `React` `TypeScript` `Vite` `Tailwind CSS`
 
-[Repositório](https://github.com/murilotecoteco/Portfolio)
-
 ---
+
 ## Open Source
 
-Contribuindo no front-end do projeto [Calendar](https://github.com/Tecnologia-da-Informacao-BR/Calendar)  — Um organizador de tarefas e produtividade open source.
-- Contribuindo ativamente no Front-end em colaboração direta com uma comunidade de +10 desenvolvedores.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,tailwind" />
-</p>
-
-`Angular` `TypeScript` `Tailwind CSS`
+Contribuo no frontend do projeto [Calendar](https://github.com/Tecnologia-da-Informacao-BR/Calendar), colaborando com a comunidade e trabalhando principalmente com Angular, TypeScript e Tailwind CSS.
 
 ---
 
 ## Contato
 
-**Email:** candidomurilo809@gmail.com  
-**GitHub:** github.com/murilotecoteco
+**Email:** [candidomurilo809@gmail.com](mailto:candidomurilo809@gmail.com)  
+**GitHub:** [github.com/murilotecoteco](https://github.com/murilotecoteco)
