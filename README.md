@@ -36,7 +36,7 @@ Marketplace web de veículos com autenticação, PostgreSQL, RLS, Storage privad
 
 ---
 
-### [Gym Membership Payments](https://github.com/murilotecoteco/gym-membership-payments)
+### [Academia com Pagamentos (Gym Membership Payments)](https://github.com/murilotecoteco/gym-membership-payments)
 
 Projeto prático de assinaturas para academias, com Stripe Checkout, webhooks, validação de pagamentos, testes automatizados e Supabase.
 
@@ -69,6 +69,10 @@ Aplicação de gerenciamento de tarefas com Next.js, React, TypeScript, persist�
 ## Open Source
 
 Contribuo no frontend do projeto [Calendar](https://github.com/Tecnologia-da-Informacao-BR/Calendar), com **8 PRs mesclados** e foco em Angular, TypeScript e Tailwind CSS.
+
+Também acompanho o projeto acadêmico colaborativo [CME Watch](https://github.com/nasa-cme/Nasa-Cme-Dashboard), mantido pela organização NASA-CME.
+
+> As demos públicas são projetos educacionais. Dados, usuários e transações de demonstração estão documentados nos READMEs de cada projeto.
 
 ---
 
