@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Murilo
 
-Estudante de Informática para Web no IFPR, aberto a oportunidades de estágio e desenvolvimento web. Construo aplicações, APIs e integrações com bancos de dados, do protótipo ao deploy.
+Estudante de Informática para Web no IFPR e futuro aluno de Engenharia de Software em 2027. Aprendo desenvolvimento web construindo projetos práticos, contribuições open source e aplicações que me ajudam a entender cada camada — do protótipo ao deploy.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-EA5A28?style=for-the-badge)](https://portifolio-murilosc.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-murilotecoteco-181717?style=for-the-badge&logo=github)](https://github.com/murilotecoteco)
@@ -12,11 +12,13 @@ Estudante de Informática para Web no IFPR, aberto a oportunidades de estágio e
 
 ---
 
-## Tecnologias
+## Tecnologias em aprendizado
 
-**Frontend:** HTML • CSS • JavaScript • React • Next.js • TypeScript • Tailwind CSS
+**Estudando:** JavaScript • TypeScript • Python • SQL
 
-**Backend e dados:** Node.js • Express • Python • Supabase • PostgreSQL • APIs REST
+**Praticando no frontend:** React • Next.js • Tailwind CSS
+
+**Explorando no backend e dados:** Node.js • Express • Supabase • PostgreSQL • APIs REST
 
 **Ferramentas:** Git • GitHub • GitHub Actions • Linux
 
@@ -36,7 +38,7 @@ Marketplace web de veículos com autenticação, PostgreSQL, RLS, Storage privad
 
 ### [Gym Membership Payments](https://github.com/murilotecoteco/gym-membership-payments)
 
-Projeto demonstrativo de assinaturas para academias, com Stripe Checkout, webhooks, validação de pagamentos, testes automatizados e Supabase.
+Projeto prático de assinaturas para academias, com Stripe Checkout, webhooks, validação de pagamentos, testes automatizados e Supabase.
 
 **Stack:** `Node.js` `Express` `Stripe` `Supabase` `PostgreSQL`
 
