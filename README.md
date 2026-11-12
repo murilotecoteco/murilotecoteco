@@ -14,9 +14,9 @@ Estudante de Informática para Web no IFPR e futuro aluno de Engenharia de Softw
 
 ## Tecnologias que estudo
 
-Atualmente, estudo algumas tecnologias para desenvolvimento web:
+**Estudando atualmente:** Angular • React • TypeScript • Next.js
 
-**Angular • React • TypeScript • Next.js**
+**Já utilizei/pratiquei:** JavaScript • PostgreSQL • GitHub Actions • Git • Tailwind CSS
 
 ---
 
