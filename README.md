@@ -12,15 +12,11 @@ Estudante de Informática para Web no IFPR e futuro aluno de Engenharia de Softw
 
 ---
 
-## Tecnologias em aprendizado
+## Tecnologias que estudo
 
-**Estudando:** JavaScript • TypeScript • Python • SQL
+Atualmente, estudo algumas tecnologias para desenvolvimento web:
 
-**Praticando no frontend:** React • Next.js • Tailwind CSS
-
-**Explorando no backend e dados:** Node.js • Express • Supabase • PostgreSQL • APIs REST
-
-**Ferramentas:** Git • GitHub • GitHub Actions • Linux
+**Angular • React • TypeScript • Next.js**
 
 ---
 
